@@ -1,6 +1,8 @@
 # このリポジトリについて
 
-◆　clustering.ipynb：　クラスタリング結果を csvに出力
+クラスタリング結果を csvに出力
+
+[ipynbファイルはこちら] (https://github.com/iwakazusuwa/ipynb_clustering)
 
 詳しい使い方や解説は以下の記事をご覧ください。
 
